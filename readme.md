@@ -1,2 +1,2 @@
 Author: Matthew Tan
-Purpose: My first assignment using HTML and CSS.
+Purpose: My first assignment using HTML and CSS. Inside the index.html file, there are headers, paragraphs, a copyright footer, and a navigation list. The navigation leads you to the about.html/about me page file, where it has the same things with an added profile picture. The main.css contains all the stylings associated with the assignment prompt.
