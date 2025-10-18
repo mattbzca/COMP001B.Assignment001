@@ -7,6 +7,8 @@ h1 {
 footer {
     bottom: 0;
     position: fixed;
+}
+#copyright {
     font-size: 10px;
 }
 #profile {
